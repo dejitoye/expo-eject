@@ -1,0 +1,10 @@
+style the header/tab:
+headerStyle:{} /?
+tabBarStyle:{}
+
+take off header: headershown:false
+Change title: title
+remove icon from header
+headerLeft:()=>false
+
+Remove Padding from the tabNav by passing edges 
